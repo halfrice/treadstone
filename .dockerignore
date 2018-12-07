@@ -1,0 +1,11 @@
+.ash_history
+.config/
+.git
+.gitignore
+.npm/
+e2e
+node_modules
+*Dockerfile*
+*docker-compose*
+!README.md
+*.md
